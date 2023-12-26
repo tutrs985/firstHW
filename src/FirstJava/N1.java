@@ -8,7 +8,6 @@ public class N1 {
         Scanner scan = new Scanner(System.in);
         float b = scan.nextFloat();
         System.out.println("Введите второе число:");
-        Scanner scan2 = new Scanner(System.in);
         float c = scan.nextFloat();
 
         float a = 4*(b+c-1)/2;
